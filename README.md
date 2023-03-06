@@ -16,7 +16,7 @@ Farm Fund is a revolutionary agric-tech Defi that empowers farmers and other agr
 
 ## Project Author
 
-Chidozie Zeno Ezeanekwe
+[Chidozie Zeno Ezeanekwe ](https://www.linkedin.com/in/chidozieezeanekwe/)
 
 ## The Smart Contract
 
@@ -55,9 +55,24 @@ The project uses the following dependencies;
 
 ## How To Clone and Use The Project
 
-1. Clone the project by running the command `git clone https://github.com/ChidozieZeno/Farm-Fund.git`
-2. Install the dependencies by running the command `npm i`
-3. Run the application by running the command `npm run dev`
+1. Clone the project by running the command
+
+```sh
+ git clone https://github.com/zenodavids/Farm-Fund.git
+```
+
+2. Install the dependencies by running the command
+
+```sh
+ npm i
+```
+
+3. Run the application by running the command
+
+```sh
+ npm run dev
+```
+
 4. Connect your wallet to the application
 5. Make your investment.
 
