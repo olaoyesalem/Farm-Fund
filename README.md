@@ -1,6 +1,6 @@
 # Farm Fund
 
-Farm Fund is a revolutionary agric-tech dApp that empowers farmers and other agricultural stakeholders to secure capital for crop and tree planning. Utilizing cutting-edge blockchain technology, Farm Fund operates a secure and transparent platform that enables investors to invest in tokens and earn returns based on a percentage of their total investment.
+Farm Fund is a revolutionary agric-tech Defi that empowers farmers and other agricultural stakeholders to secure capital for crop and tree planning. Utilizing cutting-edge blockchain technology, Farm Fund operates a secure and transparent platform that enables investors to invest in tokens and earn returns based on a percentage of their total investment.
 
 ## Project Snapshot
 
