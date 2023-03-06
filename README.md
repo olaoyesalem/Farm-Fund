@@ -6,6 +6,8 @@ Farm Fund is a revolutionary agric-tech company that empowers farmers and other 
 
 ![Farm Fund Snapshot](FarmFund.png)
 
+> **PLEASE NOTE :** WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST.
+
 ## The Smart Contract
 
 This is a Smart Contract written in Solidity for managing investments. The contract allows investors to make investments with a specified duration and calculates interest earned on the investment. The contract also provides functions for the fund manager to modify investment durations and unlock dates, and for investors to retrieve investment details.
