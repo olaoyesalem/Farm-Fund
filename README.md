@@ -6,9 +6,17 @@ Farm Fund is a revolutionary agric-tech Defi that empowers farmers and other agr
 
 ![Farm Fund Snapshot](FarmFund.png)
 
+## Project Website Link
+
+[https://farm-fund.vercel.app/](https://farm-fund.vercel.app/)
+
 # IMPORTANT ANNOUNCEMENT!
 
-> **PLEASE NOTE :** WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST.
+> **PLEASE NOTE :** WHEN TESTING THIS DAPP WITH THE URL ABOVE, PLEASE USE **MATIC'S MUMBAI TESTNET**. BUT WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST.
+
+## Project Author
+
+Chidozie Zeno Ezeanekwe
 
 ## The Smart Contract
 
@@ -44,14 +52,6 @@ The project uses the following dependencies;
 - dotenv - used to access environment variables
 - Tailwindcss - used to style the frontend
 - react-icons - icons used in the project
-
-## Project Website Link
-
-[https://farm-fund.vercel.app/](https://farm-fund.vercel.app/)
-
-## Project Author
-
-Chidozie Zeno Ezeanekwe
 
 ## How To Clone and Use The Project
 
