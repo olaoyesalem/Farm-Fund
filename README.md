@@ -6,6 +6,8 @@ Farm Fund is a revolutionary agric-tech company that empowers farmers and other 
 
 ![Farm Fund Snapshot](FarmFund.png)
 
+# IMPORTANT ANNOUNCEMENT!
+
 > **PLEASE NOTE :** WHEN TESTING THIS DAPP LOCALLY, PLEASE USE THE SAME TOKEN YOU USED IN DEPLOYING THE SMART CONTRACT TO INVEST IN THE FRONTEND. ie; IF YOU USED MATIC TO DEPLOY THE SMART CONTRACT, USE MATIC TO INVEST.
 
 ## The Smart Contract
