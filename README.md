@@ -4,7 +4,7 @@ Farm Fund is a revolutionary agric-tech company that empowers farmers and other 
 
 ## Project Snapshot
 
-![Farm Fund Snapshot](../farmfund/public/FarmFund.png)
+![Farm Fund Snapshot](FarmFund.png)
 
 ## The Smart Contract
 
