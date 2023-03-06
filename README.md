@@ -43,7 +43,7 @@ The project uses the following dependencies;
 
 ## Project Website Link
 
-[https://www.farm-fund.netlify.app/](https://www.farm-fund.netlify.app/)
+[https://farm-fund.vercel.app/](https://farm-fund.vercel.app/)
 
 ## Project Author
 
