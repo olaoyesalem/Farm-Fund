@@ -62,11 +62,11 @@ const Header = () => {
                   <span className='uppercase text-[#008000] font-bold '>
                     green
                   </span>{' '}
-                  with FarmFund! This agricultural staking dapp lets you invest
-                  in sustainable farming practices, earning a return on your
-                  investment. <br /> With FarmFund, your money is used to plant
-                  crops, producing high-quality, organic food that is
-                  distributed to investors and consumers alike. <br />
+                  with FarmFund! FarmFund lets you invest in sustainable farming
+                  practices, earning a return on your investment. <br /> With
+                  FarmFund, your money is used to plant crops, producing
+                  high-quality, organic food that is distributed to investors
+                  and consumers alike. <br />
                   FarmFund is committed to using organic farming methods to
                   protect the environment and promote biodiversity.
                   <br />

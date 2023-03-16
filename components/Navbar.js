@@ -39,9 +39,10 @@ export const Navbar = (props) => {
         <ul className='flex items-center hidden space-x-8 lg:flex'>
           {/* Mapping through an array of navigation items to create individual NavBarItem components */}
           {[
-            { title: 'Home', link: '#' },
-            { title: 'NFTs', link: '#' },
-            { title: 'About us', link: '#' },
+            // TODO : You can add multiple pages, following the below sample
+            // { title: 'Home', link: '#' },
+            // { title: 'NFTs', link: '#' },
+            // { title: 'About us', link: '#' },
           ].map((item, index) => (
             <NavBarItem
               key={item.title + index}
@@ -111,9 +112,9 @@ export const Navbar = (props) => {
                 <nav>
                   <ul className='space-y-4'>
                     {[
-                      { title: 'NFTs', link: '#' },
-
-                      { title: 'About us', link: '#' },
+                      // TODO : You can add multiple pages, following the below sample
+                      // { title: 'NFTs', link: '#' },
+                      // { title: 'About us', link: '#' },
                     ].map((item, index) => (
                       <NavBarItem
                         key={item.title + index}
