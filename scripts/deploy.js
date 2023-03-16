@@ -8,9 +8,7 @@ require('dotenv').config({ path: '.env' })
 async function main() {
   const FarmFund = await ethers.getContractFactory('FarmFund')
 
-  const farmFund = await FarmFund.deploy({
-    value: ethers.utils.parseEther('0.01'),
-  })
+  const farmFund = await FarmFund.deploy()
 
   await farmFund.deployed()
 
@@ -25,7 +23,23 @@ async function main() {
   export const CONTRACT_ADDRESS = "${farmFund.address}"
   `
   )
+  // ===============================
+  console.log('Sleeping.....')
+  // Wait for etherscan to notice that the contract has been deployed
+  await sleep(40000)
+
+  // Verify the contract after deploying
+  await hre.run('verify:verify', {
+    address: farmFund.address,
+    constructorArguments: [],
+  })
+  // ===============================
 }
+// =================================
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+// ==================================
 main()
   .then(() => process.exit(0))
   .catch((error) => {
